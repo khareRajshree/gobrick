@@ -1,12 +1,12 @@
-module github.com/dell/gobrick
+module github.com/khareRajshree/gobrick
 
 go 1.24
 
 toolchain go1.24.4
 
 require (
-	github.com/dell/goiscsi v1.12.0
-	github.com/dell/gonvme v1.11.1
+	github.com/khareRajshree/goiscsi v1.12.0
+	github.com/khareRajshree/gonvme v1.11.1
 	github.com/golang/mock v1.6.0
 	github.com/sirupsen/logrus v1.9.3
 	github.com/stretchr/testify v1.11.0

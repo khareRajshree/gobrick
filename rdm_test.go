@@ -23,7 +23,7 @@ import (
 	"reflect"
 	"testing"
 
-	mh "github.com/dell/gobrick/internal/mockhelper"
+	mh "github.com/khareRajshree/gobrick/internal/mockhelper"
 	"github.com/golang/mock/gomock"
 )
 

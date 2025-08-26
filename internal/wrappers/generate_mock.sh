@@ -14,5 +14,5 @@
 
 mockgen -source wrappers.go \
   -destination wrappers_mock.go \
-  -self_package github.com/dell/gobrick/internal/wrappers \
+  -self_package github.com/khareRajshree/gobrick/internal/wrappers \
   -package wrappers

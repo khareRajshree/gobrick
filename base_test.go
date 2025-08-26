@@ -21,11 +21,11 @@ import (
 	"testing"
 	"time"
 
-	mh "github.com/dell/gobrick/internal/mockhelper"
-	intmultipath "github.com/dell/gobrick/internal/multipath"
-	intpowerpath "github.com/dell/gobrick/internal/powerpath"
-	intscsi "github.com/dell/gobrick/internal/scsi"
-	"github.com/dell/gobrick/pkg/scsi"
+	mh "github.com/khareRajshree/gobrick/internal/mockhelper"
+	intmultipath "github.com/khareRajshree/gobrick/internal/multipath"
+	intpowerpath "github.com/khareRajshree/gobrick/internal/powerpath"
+	intscsi "github.com/khareRajshree/gobrick/internal/scsi"
+	"github.com/khareRajshree/gobrick/pkg/scsi"
 	"github.com/golang/mock/gomock"
 )
 

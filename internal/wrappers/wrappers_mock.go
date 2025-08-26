@@ -22,8 +22,8 @@ import (
 	os "os"
 	reflect "reflect"
 
-	goiscsi "github.com/dell/goiscsi"
-	gonvme "github.com/dell/gonvme"
+	goiscsi "github.com/khareRajshree/goiscsi"
+	gonvme "github.com/khareRajshree/gonvme"
 	gomock "github.com/golang/mock/gomock"
 )
 

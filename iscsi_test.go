@@ -23,15 +23,15 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dell/gobrick/pkg/scsi"
+	"github.com/khareRajshree/gobrick/pkg/scsi"
 
-	"github.com/dell/gobrick/internal/powerpath"
+	"github.com/khareRajshree/gobrick/internal/powerpath"
 
-	"github.com/dell/gobrick/internal/mockhelper"
-	intmultipath "github.com/dell/gobrick/internal/multipath"
-	intscsi "github.com/dell/gobrick/internal/scsi"
-	wrp "github.com/dell/gobrick/internal/wrappers"
-	"github.com/dell/goiscsi"
+	"github.com/khareRajshree/gobrick/internal/mockhelper"
+	intmultipath "github.com/khareRajshree/gobrick/internal/multipath"
+	intscsi "github.com/khareRajshree/gobrick/internal/scsi"
+	wrp "github.com/khareRajshree/gobrick/internal/wrappers"
+	"github.com/khareRajshree/goiscsi"
 	"github.com/golang/mock/gomock"
 	"golang.org/x/sync/semaphore"
 	"golang.org/x/sync/singleflight"

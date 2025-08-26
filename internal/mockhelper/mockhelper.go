@@ -21,9 +21,9 @@ import (
 	"errors"
 	"os"
 
-	"github.com/dell/goiscsi"
+	"github.com/khareRajshree/goiscsi"
 
-	wrp "github.com/dell/gobrick/internal/wrappers"
+	wrp "github.com/khareRajshree/gobrick/internal/wrappers"
 
 	"github.com/golang/mock/gomock"
 )

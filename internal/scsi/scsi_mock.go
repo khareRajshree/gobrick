@@ -21,7 +21,7 @@ import (
 	context "context"
 	reflect "reflect"
 
-	scsi "github.com/dell/gobrick/pkg/scsi"
+	scsi "github.com/khareRajshree/gobrick/pkg/scsi"
 	gomock "github.com/golang/mock/gomock"
 )
 
