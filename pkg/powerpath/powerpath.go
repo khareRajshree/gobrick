@@ -25,10 +25,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/dell/gobrick/internal/logger"
-	"github.com/dell/gobrick/internal/tracer"
-	wrp "github.com/dell/gobrick/internal/wrappers"
-	"github.com/dell/gobrick/pkg/gobrickutils"
+	"github.com/khareRajshree/gobrick/internal/logger"
+	"github.com/khareRajshree/gobrick/internal/tracer"
+	wrp "github.com/khareRajshree/gobrick/internal/wrappers"
+	"github.com/khareRajshree/gobrick/pkg/gobrickutils"
 	log "github.com/sirupsen/logrus"
 )
 

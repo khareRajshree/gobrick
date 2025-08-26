@@ -21,8 +21,8 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/dell/goiscsi"
-	"github.com/dell/gonvme"
+	"github.com/khareRajshree/goiscsi"
+	"github.com/khareRajshree/gonvme"
 )
 
 // LimitedFileInfo defines limited file info interface

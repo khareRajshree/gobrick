@@ -23,12 +23,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dell/gonvme"
+	"github.com/khareRajshree/gonvme"
 
-	mh "github.com/dell/gobrick/internal/mockhelper"
-	intmultipath "github.com/dell/gobrick/internal/multipath"
-	intscsi "github.com/dell/gobrick/internal/scsi"
-	wrp "github.com/dell/gobrick/internal/wrappers"
+	mh "github.com/khareRajshree/gobrick/internal/mockhelper"
+	intmultipath "github.com/khareRajshree/gobrick/internal/multipath"
+	intscsi "github.com/khareRajshree/gobrick/internal/scsi"
+	wrp "github.com/khareRajshree/gobrick/internal/wrappers"
 	"github.com/golang/mock/gomock"
 	"golang.org/x/sync/semaphore"
 	"golang.org/x/sync/singleflight"
